@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DataStore.Tests
+build_property.ProjectDir = C:\Users\Dell\source\repos\KeyValueStore\DataStore.Tests\
